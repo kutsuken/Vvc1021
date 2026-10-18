@@ -1,0 +1,7 @@
+{
+  "name": "AI 治愈系互动小手机",
+  "description": "简约水彩治愈风格的互动小手机，具备可配置多AI服务商、应用仓库、角色设定与AI润色、QQ风格角色对话（支持世界书守则、语音与表情包）、世界书标签体系及果冻触感动效。",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
+
